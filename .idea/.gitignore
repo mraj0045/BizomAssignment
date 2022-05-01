@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+codeStyles
+sonarlint
+compiler.xml
+gradle.xml
+misc.xml
+vcs.xml
+git_toolbox_prj.xml
